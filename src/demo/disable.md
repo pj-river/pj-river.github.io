@@ -7,10 +7,10 @@ category:
 tag:
   - disable
 
-navbar: true  # 头部导航
-# sidebar: true # 侧边
+navbar: true
+# sidebar: true 
 
-breadcrumb: true  # 面包xie
+breadcrumb: true
 pageInfo: false
 contributors: false
 editLink: false
